@@ -4,6 +4,11 @@
     "name": "网盘",
     "link": "https://nas.zpzone.cn/"
   },
+    {
+    "icon": "SafetyOutlined",
+    "name": "运维面板",
+    "link": "https://panel.zpzone.cn/"
+  },
   {
     "icon": "Fire",
     "name": "今日热榜",
